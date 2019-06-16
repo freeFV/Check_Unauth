@@ -12,3 +12,5 @@ usage: python3 Check_Unauth.py 127.0.0.1
 4.elasticsearch未授权检测脚本默认端口9200
 
 5.ftp、Memcached
+
+![image](https://github.com/lanpan999/Check_Unauth/blob/master/12.png)
