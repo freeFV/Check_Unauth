@@ -1,0 +1,5 @@
+kazoo
+paramiko
+redis
+colored
+elasticsearch
